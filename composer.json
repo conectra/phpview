@@ -1,5 +1,5 @@
 {
-  "name": "solis/phpview",
+  "name": "conectra/phpview",
   "description": "PhpView is a simple template engine for php",
   "license": [
     "GPL-3.0+",
@@ -11,6 +11,6 @@
     }
   },
   "require": {
-    "solis/phpbreaker": "~v1.0"
+    "conectra/phpbreaker": "~v1.0"
   }
 }
